@@ -1,3 +1,33 @@
+## Školy - Materiály a Učebnice:
+link - www.python.sk/edu alebo www.python.sk/ucebnice
+*  *Blockly, MicroPython a micro:bit pre základné školy* (8-10) (Ročníky 3 - 5) - na konci prechod do MicroPythonu, až keď bude podpora mu editora
+*  *Python, MicroPython a micro:bit pre základné školy* (11-14) (Ročníky 6 - 9)
+*  *Python, MicroPython a NodeMCU pre stredné školy I.* (15-16) (Ročníky 1 - 2)
+*  *Python, MicroPython a NodeMCU pre stredné školy II.* (17-18) (Ročníky 3 - 4)
+
+## Fórum:
+link - www.forum.python.sk
+flaskbb , sekcie pre začiatočníkov, pokročilých, učiteľov aj žiakov
+
+## SPy, o.z.:
+link www.spy.python.sk
+simple single page stránka, hore popis toho, čo robíme, pod tým my, pod tým viac informácií k meetupom, workshopom, edu, ...
+
+## Projektové návody:
+link - www.python.sk/projekty alebo www.python.sk/navody
+
+## Workshopové materiály:
+link - www.python.sk/workshopy
+
+~~## Konferenčné zborníky???~~ - najskôr PyCon 2019
+
+
+
+
+
+---------------------------------------
+
+
 ### Python, MicroPython a NodeMCU:
 Učebnica pre stredné školy
 
