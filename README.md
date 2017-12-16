@@ -1,4 +1,4 @@
-## Školy - Materiály a Učebnice:
+88## Školy - Materiály a Učebnice:
 link - www.python.sk/edu alebo www.python.sk/ucebnice
 *  *Blockly, MicroPython a micro:bit pre základné školy* (8-10) (Ročníky 3 - 5) - na konci prechod do MicroPythonu, až keď bude podpora mu editora
 *  *Python, MicroPython a micro:bit pre základné školy* (11-14) (Ročníky 6 - 9)
@@ -22,7 +22,18 @@ link - www.python.sk/projekty alebo www.python.sk/navody
 ## Workshopové materiály:
 link - www.python.sk/workshopy
 
+## MicroPython.sk
+Má to byť primárne len statický preklad dokumentácie, návody budú na www.python.sk
+*  ESP8266 - preklad z micropython.org
+*  micro:bit - preklad z www.microbit-micropython.readthedocs.io
+
+## Ďalšie materiály
+* Rapid Router - preklad do slovenčiny
+* CAS materiály
+* mu editor - preklad + NodeMCU port (pip3 install mu-editor-sk) prípadne ešte micropython-editor
+
 ~~## Konferenčné zborníky???~~ - najskôr PyCon 2019
+Z PyCon 2018 by sme mohli spraviť *EduTrack Summary*
 
 
 
