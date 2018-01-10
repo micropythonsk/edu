@@ -35,7 +35,22 @@ Má to byť primárne len statický preklad dokumentácie, návody budú na www.
 ~~## Konferenčné zborníky???~~ - najskôr PyCon 2019
 Z PyCon 2018 by sme mohli spraviť *EduTrack Summary*
 
+# Videos
 
+ 0. Intro video for YouTube about SPy, o.z.
+ 1. micro:bit + pong (me)
+ 2. Python + Google spreadsheet
+ 3. NodeMCU + temp. sensor + tkinter (me)
+ 4. NodeMCU + robot (Katka)
+ 5. Meteo Station (Filip)
+ 6. Cloud data (Filip)
+ 7. LED Shoes (me)
+ 8. micro:bit Smart Pot (SOSIT ?)
+ 9. NodeMCU Smart Pot (me)
+
+ 
+ + Video about PyCon SK 2016 / 2017
+ + Video about EduTrack for teachers
 
 
 
