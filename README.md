@@ -39,6 +39,12 @@ Z PyCon 2018 by sme mohli spraviť *EduTrack Summary*
 
  0. Intro video for YouTube about SPy, o.z.
  1. micro:bit + pong (me)
+    metronome
+    pedometer
+    badge (f!)
+    stepdown counter
+    reaction timer (https://makecode.microbit.org/projects/reaction-time)
+    automat na kofolu (motorcek)
  2. Python + Google spreadsheet
  3. NodeMCU + temp. sensor + tkinter (me)
  4. NodeMCU + robot (Katka)
