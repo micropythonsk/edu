@@ -4,9 +4,6 @@ link - www.python.sk/edu alebo www.python.sk/ucebnice
 *  *Python, MicroPython a micro:bit pre základné školy* (11-14) (Ročníky 6 - 9)
 *  *Python, MicroPython a NodeMCU pre stredné školy I.* (15-16) (Ročníky 1 - 2)
 *  *Python, MicroPython a NodeMCU pre stredné školy II.* (17-18) (Ročníky 3 - 4)
-*  *Python pre základné školy* (11-14) (Ročníky 6 - 9) - preklad ?
-*  *Python pre stredné školy I.* (15-16) (Ročníky 1 - 2)
-*  *Python pre stredné školy II.* (17-18) (Ročníky 3 - 4)
 
 ## Fórum:
 link - www.forum.python.sk
