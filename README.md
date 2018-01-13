@@ -1,6 +1,6 @@
 88## Školy - Materiály a Učebnice:
 link - www.python.sk/edu alebo www.python.sk/ucebnice
-*  *Blockly, MicroPython a micro:bit pre základné školy* (8-10) (Ročníky 3 - 5) - na konci prechod do MicroPythonu, až keď bude podpora mu editora
+*  *Blockly a micro:bit pre základné školy* (8-10) (Ročníky 3 - 5) - na konci prechod do MicroPythonu, až keď bude podpora mu editora
 *  *Python, MicroPython a micro:bit pre základné školy* (11-14) (Ročníky 6 - 9)
 *  *Python, MicroPython a NodeMCU pre stredné školy I.* (15-16) (Ročníky 1 - 2)
 *  *Python, MicroPython a NodeMCU pre stredné školy II.* (17-18) (Ročníky 3 - 4)
