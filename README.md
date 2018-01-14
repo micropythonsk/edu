@@ -1,4 +1,8 @@
-88## Školy - Materiály a Učebnice:
+####Links:
+
+*  http://pythontutor.com/ - interactive coding sessions, visualisation of memory and processes __TOTALLY COOL!__
+
+#### Školy - Materiály a Učebnice:
 link - www.python.sk/edu alebo www.python.sk/ucebnice
 *  *Blockly a micro:bit pre základné školy* (8-10) (Ročníky 3 - 5) - na konci prechod do MicroPythonu, až keď bude podpora mu editora
 *  *MicroPython, Python a micro:bit pre základné školy* (11-14) (Ročníky 6 - 9)
