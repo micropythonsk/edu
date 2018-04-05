@@ -1,40 +1,56 @@
-####Links:
+# Učíme s Hardvérom - tvorba a preklad materiálov
 
-*  http://pythontutor.com/ - interactive coding sessions, visualisation of memory and processes __TOTALLY COOL!__
+## Okruhy, ku ktorým tvoríme materiály
+*  *Blockly a micro:bit pre základné školy* (Ročníky 6 - 7)
+*  *MicroPython, Python a micro:bit pre základné školy*  (Ročníky 8 - 9)
+*  *MicroPython, Python a micro:bit pre stredné školy* (Ročníky 1 - 2)
 
-#### Školy - Materiály a Učebnice:
-link - www.python.sk/edu alebo www.python.sk/ucebnice
-*  *Blockly a micro:bit pre základné školy* (8-10) (Ročníky 3 - 5) - na konci prechod do MicroPythonu, až keď bude podpora mu editora
-*  *MicroPython, Python a micro:bit pre základné školy* (11-14) (Ročníky 6 - 9)
-*  *MicroPython, Python a NodeMCU pre stredné školy I.* (15-16) (Ročníky 1 - 2)
-*  *MicroPython, Python a NodeMCU pre stredné školy II.* (17-18) (Ročníky 3 - 4)
+#### Do budúcnosti plánujeme aj platformu NodeMCU
+*  *MicroPython, Python a NodeMCU pre stredné školy I.* (Ročníky 1 - 2)
+*  *MicroPython, Python a NodeMCU pre stredné školy II.* (Ročníky 3 - 4)
 
-## Fórum:
+## Materiály na preklad
+* Rapid Router - preklad do slovenčiny
+* mu editor (preložené?)
+* www.microbit-micropython.readthedocs.io (Juraj, Dano, Marek)
+* microbit-challenges.readthedocs.io
+* MakeCode micro:bit -> nekompletný preklad
+* MakeCode micro:bit -> knižnica pxt-neopixel preklad
+
+## Ďaľšie zdroje materiálov a nápady
+* CAS materiály - www.computingatschool.org
+* MakeCode - generovanie Python kódu namiesto JavaScriptu
+
+## Fórum
+Nasmerujeme tam témy na Python, MicroPython, Učíme s Hardvérom a súťaže _SPyCup_
+
 link - www.forum.python.sk
-flaskbb , sekcie pre začiatočníkov, pokročilých, učiteľov aj žiakov
 
-## SPy, o.z.:
-link www.spy.python.sk
-simple single page stránka, hore popis toho, čo robíme, pod tým my, pod tým viac informácií k meetupom, workshopom, edu, ...
+Riešenie - flaskbb alebo Discourse
 
-## Projektové návody:
+## Projektové návody
 link - www.python.sk/projekty alebo www.python.sk/navody
 
-## Workshopové materiály:
-link - www.python.sk/workshopy
+Niečo na štýl www.instructables.com - ideálne ľahk pridávanie projektov komunitou
+
+Riešenie - Sphinx (md/rst) alebo niečo na štýl www.wikifab.org
+
+## Workshopové materiály
+link - www.python.sk/workshopy alebo www.python.sk/seminare
+
+Určené lektorom, ktorí chcú organizovať workshopy (semináre)
 
 ## MicroPython.sk
 Má to byť primárne len statický preklad dokumentácie, návody budú na www.python.sk
 *  ESP8266 - preklad z micropython.org
-*  micro:bit - preklad z www.microbit-micropython.readthedocs.io
 
-## Ďalšie materiály
-* Rapid Router - preklad do slovenčiny
-* CAS materiály
-* mu editor - preklad + NodeMCU port (pip3 install mu-editor-sk) prípadne ešte micropython-editor
+## microbit.sk
+* preklad z www.microbit-micropython.readthedocs.io
 
 ~~## Konferenčné zborníky???~~ - najskôr PyCon 2019
-Z PyCon 2018 by sme mohli spraviť *EduTrack Summary*
+Z PyCon 2018 by sme mohli spraviť *EduTrack Summary* - každý rečník napíše aspoň pol strany textu, o čom hovoril (faktografické zhrnutie užitočných nápadov, trikov a edukačných pomôcok) ktorý zverejníme na python.sk
+
+
 
 # Videos
 
@@ -65,3 +81,7 @@ Z PyCon 2018 by sme mohli spraviť *EduTrack Summary*
  
  + Video about PyCon SK 2016 / 2017
  + Video about EduTrack for teachers
+ 
+ ##Links:
+
+*  http://pythontutor.com/ - interactive coding sessions, visualisation of memory and processes __TOTALLY COOL!__
